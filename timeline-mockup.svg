@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 953.07 441.65">
+  <defs>
+
+  </defs>
+  <title>timeline-mockup</title>
+  <g id="timeline">
+    <g>
+      <line class="cls-1" y1="411.33" x2="791.71" y2="411.33"/>
+      <line class="cls-2" y1="411.33" x2="791.71" y2="411.33"/>
+    </g>
+    <g id="bullets">
+      <circle class="cls-3" cx="437.88" cy="410.06" r="26.58"/>
+      <circle class="cls-3" cx="67.09" cy="410.06" r="26.58"/>
+      <circle class="cls-3" cx="251.88" cy="410.06" r="26.58"/>
+    </g>
+    <g id="movies">
+      <g id="prisoner">
+      <rect class="cls-1" x="67.09" y="5" width="289.27" height="125.74"/>
+      <line class="cls-1" x1="67.09" y1="378.89" x2="67.09" y2="130.74"/>
+    </g>
+
+    <g id="chamber">
+      <line class="cls-1" x1="251.88" y1="378.89" x2="251.88" y2="282.22"/>
+      <rect class="cls-1" x="438" y="5" width="289.27" height="125.74"/>
+    </g>
+
+    <g id="philosopher">
+      <rect class="cls-4" x="252.07" y="156.48" width="289.27" height="125.74"/>
+      <line class="cls-5" x1="791.71" y1="411.33" x2="953.07" y2="411.33"/>
+    </g>
+  </g>
+</svg>

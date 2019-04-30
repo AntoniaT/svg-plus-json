@@ -1,0 +1,23 @@
+[
+    {
+        "id": "philosopher",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "director": "Chris Columbus",
+        "image": "philosopher"
+    },
+    {
+        "id": "chamber",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "director": "Chris Columbus",
+        "image": "chamber"
+    },
+    {
+        "id": "prisoner",
+        "title": "Harry Potter and the Prisoner of Azkaban ",
+        "year": 2004,
+        "director": "Alfonso Cuarón",
+        "image": "prisoner"
+    }
+]

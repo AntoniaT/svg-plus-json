@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Movie Timeline</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>The Movie Timeline</h1>
+    <div id="svg_timeline">
+
+
+    <div class="svgplaceholder" data-svgplaceholder="philosopher" id="movie_1">Movie 1</div>
+    <div class="svgplaceholder" data-svgplaceholder="chamber"id="movie_2">Movie 2</div>
+    <div class="svgplaceholder" data-svgplaceholder="prisoner"id="movie_3">Movie 3</div>
+
+    </div>
+
+   <template id="movie_template">
+       <h1 data-field="title">Title</h1>
+       <div class="columnContainer">
+       <div class="column">
+       <img class="imagePic" data-field="image" src="prisoner.jpg" alt="movie poster">
+       </div>
+       <div class="column">
+       <p class="text" data-field="year">2001</p>
+       <p class="text" data-field="director">Chris Columbus</p>
+       </div>
+       </div>
+   </template>
+   
+    <script src="scriptnew.js"></script>
+</body>
+</html>

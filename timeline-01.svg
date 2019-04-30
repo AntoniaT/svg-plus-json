@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        font-size: 32px;
+        font-family: MyriadPro-Bold, Myriad Pro;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        fill: #fff7e9;
+      }
+    </style>
+  </defs>
+  <title>timeline</title>
+  <g id="timeline">
+    <line class="cls-1" x1="57.52" y1="594.78" x2="1491.7" y2="594.78"/>
+    <g id="textlines">
+      <g id="first">
+        <text class="cls-2" x="241.92" y="533.7" transform="rotate(-54.82) scale(1.01 1)">My first webpage</text>
+        <line class="cls-3" x1="233.47" y1="564.41" x2="427.14" y2="298.58"/>
+      </g>
+      <g id="intro">
+        <text class="cls-2" x="141.29" y="530.72" transform="rotate(-55.15)">Intro week</text>
+        <line class="cls-3" x1="130.94" y1="564.41" x2="266.38" y2="377.06"/>
+      </g>
+    </g>
+    <g id="bullets">
+      <circle class="cls-4" cx="124.61" cy="593.52" r="26.58"/>
+      <circle class="cls-4" cx="231.4" cy="593.52" r="26.58"/>
+      <circle class="cls-4" cx="348.93" cy="593.52" r="26.58"/>
+      <circle class="cls-4" cx="523.73" cy="593.52" r="26.58"/>
+      <circle class="cls-4" cx="681.68" cy="593.52" r="26.58"/>
+      <circle class="cls-4" cx="814.41" cy="593.52" r="26.58"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,121 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#svg-timeline {
+    position: relative;
+}
+.cls-1, .cls-4, .cls-6 {
+    fill: none;
+  }
+
+  .cls-1, .cls-11, .cls-3, .cls-4, .cls-6 {
+    stroke: #000;
+    stroke-miterlimit: 10;
+  }
+
+  .cls-1, .cls-3 {
+    stroke-width: 10px;
+  }
+
+  .cls-2, .cls-3 {
+    fill: #fff7e9;
+  }
+
+  .cls-11, .cls-4 {
+    stroke-width: 6px;
+  }
+
+  .cls-5 {
+    font-size: 32px;
+    font-family: MyriadPro-Bold, MyriadPro Bold;
+    font-weight: 700;
+  }
+
+  .cls-6 {
+    stroke-width: 5px;
+  }
+
+  .cls-7 {
+    letter-spacing: -0.02em;
+  }
+
+  .cls-8 {
+    letter-spacing: 0em;
+  }
+
+  .cls-9 {
+    letter-spacing: 0.01em;
+  }
+
+  .cls-10 {
+    letter-spacing: 0.02em;
+  }
+
+  .cls-11 {
+    fill: #fff;
+  }
+
+  .cls-12 {
+    letter-spacing: 0.01em;
+  }
+
+  .cls-13 {
+    letter-spacing: -0.01em;
+  }
+
+  .cls-14 {
+    letter-spacing: -0.01em;
+  }
+
+  .cls-15 {
+    letter-spacing: 0em;
+  }
+
+  .cls-16 {
+    letter-spacing: 0.03em;
+  }
+
+  .cls-17 {
+    letter-spacing: -0.07em;
+  }
+
+  .cls-18 {
+    letter-spacing: 0em;
+  }
+
+  .cls-19 {
+    letter-spacing: -0.01em;
+  }
+.svgplaceholder{
+    background: red;
+    position: absolute;
+}
+#movie_2{
+    background: green;
+    position: absolute;
+}
+#movie_3{
+    background: yellow;
+    position: absolute;
+}
+#movie_template{
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+  overflow: hidden;
+  align-items: flex-start;
+
+}
+.imagePic{
+  width: 50%;
+}
+h1{
+  width: 100%;
+  font-size: 1em;
+}
+.text{
+  width: 50%;
+}
+.columnContainer{
+  align-self: stretch;
+}
